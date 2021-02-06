@@ -1,3 +1,5 @@
+自 2019 年 12 月，此SDK停止更新
+
 # Support Policy for ESP8266 NonOS
 
 Starting from December 2019, 
